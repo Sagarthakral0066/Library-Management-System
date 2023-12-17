@@ -1,0 +1,28 @@
+		Tables used in the project
+
+mysql:
+	root
+	password
+
+		system
+		password
+
+	Data Base name : project	
+
+1. register
+
+	name	varchar(20)
+	cno	varchar(15)
+	email 	varchar(20)
+	uname	varchar(20)
+	pass	varchar(20)
+
+2. book
+	bid	varchar(20)
+	bname 	varchar(20)
+	bauthor	varchar(20)
+	bprice	varchar(20)
+
+
+
+
